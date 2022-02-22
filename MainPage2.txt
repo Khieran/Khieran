@@ -2,9 +2,8 @@
 <head>
 <title>Group 5 Main Web Page</title> 
 </head>
-<body>
 
-<body background="background.jpg" style="background-size: 100%">
+<body background="image name.jpg" style="background-size: 100%">
 <font size="15">
 <h1 align =center><b>Web Page</h1>
 </font>
@@ -17,7 +16,7 @@
 <p align ="center"><font size="3"><i><b>Ms. Apple Agsam Egusquiza</p>
 </font>
 <br>
-<p align ="center><img src="cae.png" height="50"> 
+<p align ="center><img src="img name" height="50"> 
 <hr>
 <br>
 <br>
@@ -28,7 +27,7 @@
 <p align ="center"><font size="3"><i><b>Sir. Karlo Villanueva</p>
 </font>
 <br>
-<p align ="center><img src="cle.png"height="50">
+<p align ="center><img src="img name"height="50">
 <hr>
 <br>
 <br>
@@ -38,7 +37,7 @@
 <p align ="center"><font size="3"><i><b>Sir. Paquito Valor</p>
 </font>
 <br>
-<p align ="center><img src="math.png"height="50">
+<p align ="center><img src="img name"height="50">
 <hr>
 <br>
 <br>
